@@ -10,7 +10,7 @@ The Delivery Optimization program helps Aman, a delivery executive, find the bes
     ```
 2. Run the main class.
     ```
-    java com.lucidity.DeliveryOptimization
+    java com.lucidity.com.lucidity.DeliveryOptimization
     ```
 
 ## Classes

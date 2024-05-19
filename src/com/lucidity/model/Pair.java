@@ -1,4 +1,4 @@
-package com.lucidity;
+package com.lucidity.model;
 
 
 /**

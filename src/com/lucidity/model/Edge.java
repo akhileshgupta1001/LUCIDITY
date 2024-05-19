@@ -1,11 +1,11 @@
-package com.lucidity;
+package com.lucidity.model;
 
 /**
  * Represents an edge with a destination and weight.
  */
-class Edge {
-    int destination;
-    int weight;
+public class Edge {
+    public int destination;
+    public int weight;
 
     /**
      * Constructs an Edge object.
